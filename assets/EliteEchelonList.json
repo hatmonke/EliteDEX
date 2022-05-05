@@ -1,0 +1,33 @@
+{
+    "name": "Elite Choises",
+    "keywords": [
+      "EliteDEX",
+      "Echelon",
+      "swap"
+    ],
+    "timestamp": "2022-05-04T00:00:00+00:00",
+    "tokens": [
+      {
+        "address": "0x74d9a5A6Ea3C55Ca77C2c74dC62F7cE3140Fb720",
+        "chainId": 3000,
+        "name": "Echelon Shiba",
+        "symbol": "ESHIB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/hatmonke/EliteDEX/blob/main/assets/logo/0x74d9a5A6Ea3C55Ca77C2c74dC62F7cE3140Fb720.png"
+      },
+      {
+        "address": "0xadEE5159f4f82a35B9068A6c810bdc6c599Ba6a8",
+        "chainId": 3000,
+        "name": "Wrapped Echelon",
+        "symbol": "WECH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/hatmonke/EliteDEX/blob/main/assets/logo/ECH.gif"
+      }
+    ],
+    "version": {
+      "major": 85,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  
