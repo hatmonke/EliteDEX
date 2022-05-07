@@ -12,7 +12,7 @@
         "chainId": 3000,
         "name": "Echelon Shiba",
         "symbol": "ESHIB",
-        "decimals": 18,
+        "decimals": 9,
         "logoURI": "https://raw.githubusercontent.com/hatmonke/EliteDEX/blob/main/assets/logo/0x74d9a5A6Ea3C55Ca77C2c74dC62F7cE3140Fb720.png"
       },
       {
@@ -35,7 +35,7 @@
     "version": {
       "major": 1,
       "minor": 2,
-      "patch": 1
+      "patch": 2
     }
   }
   
